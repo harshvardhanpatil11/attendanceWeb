@@ -17,14 +17,12 @@ This is a simple **PHP-based Attendance Email Notification Project** that allows
 - HTML/CSS
 - Bootstrap (for styling)
 - PHPMailer (for email notifications)
-
 ## 🔐 Login Credentials (Default) 
 ### Teacher Login
 - **Email**: `sits_comp`
 - **Password**: `co`
 
 > ⚠️ You can change these credentials directly from the database table named `users`.
-
 ## 🗄️ Database
 - The SQL file `attendance_db.sql` is included in the repo.
 - Import it into your MySQL server to set up the required tables.
