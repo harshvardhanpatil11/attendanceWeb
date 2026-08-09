@@ -4,7 +4,6 @@
 This project is co-owned by: [@harsh6054](https://www.github.com/harsh6054) 
 
 This is a simple **PHP-based Attendance Email Notification Project** that allows users to log in, mark attendance, and send automated email notifications. The project uses **MySQL** as the backend database and is ideal for educational or small office environments.
-
 ## 🚀 Features
 - ✅ Login system with session handling
 - 🧾 Attendance marking functionality
@@ -21,7 +20,6 @@ This is a simple **PHP-based Attendance Email Notification Project** that allows
 ### Teacher Login
 - **Email**: `sits_comp`
 - **Password**: `co`
-
 > ⚠️ You can change these credentials directly from the database table named `users`.
 ## 🗄️ Database
 - The SQL file `attendance_db.sql` is included in the repo.
